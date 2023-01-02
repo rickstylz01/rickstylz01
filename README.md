@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rickstylz01
 - 👀 I’m interested in becoming better everyday
 - 🌱 I’m currently learning how to enhance my knowledge for front and back end development
-- 💞️ I’m looking to collaborate on meaningful projects
+- 🧠 I’m looking to collaborate on meaningful projects
 
 <!---
 rickstylz01/rickstylz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
