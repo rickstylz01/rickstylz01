@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rickstylz01
+- 👋 Hi, I’m @[rickstylz01](https://rickstylz01.github.io/Portfolio-GA/)
 - 👀 I’m interested in becoming better everyday
 - 🌱 I’m currently learning how to enhance my knowledge for front and back end development
 - 🧠 I’m looking to collaborate on meaningful projects
