@@ -26,7 +26,9 @@ Technical documentation & reporting
 🌐 Portfolio Website – A fully responsive portfolio showcasing my skills and projects.
 
 📫 Let's Connect!
+
 💼 LinkedIn: linkedin.com/in/rickmaya
+
 📂 Portfolio: rickstylz01.github.io/Portfolio-GA
 
 ⚡ Fun Fact:
