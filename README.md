@@ -10,12 +10,14 @@ Languages & Frameworks:
 Front-End: HTML5, CSS3, JavaScript (ES6+), React, jQuery, JSPs
 Back-End: Java, Spring Boot, ExpressJS, MongoDB, SQL
 Testing & Tools: JUnit4/5, Mockito, Git, CI/CD (Jenkins, Udeploy, Octodeploy)
-Other Skills:
+
+🛠️ Other Skills:
 Agile & Scrum methodologies
 Database management (SQL & NoSQL)
 Batch Processing & Automation
 Cloud Deployment (Heroku, Github Pages)
 Technical documentation & reporting
+
 📌 Featured Projects
 🚀 Library Management System – A full-stack app for managing personal book collections using Spring Boot, JWT Authentication, and H2 Database.
 
